@@ -9,7 +9,7 @@ You may:
 
 You may NOT:
 - Reupload these mods anywhere with out permisson.
-- Modify these mods and share the modified versions.
+- Modify these mods and/or share the modified versions.
 - Use these mods in any commercial project.
 - Sell these mods or profit from them in any way.
 
